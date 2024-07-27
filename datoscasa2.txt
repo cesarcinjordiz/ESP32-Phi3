@@ -1,0 +1,18 @@
+'''
+Comando1=“enciende la luz del comedor”; Respuesta1=“encender comedor”.
+Comando2=“apaga la luz del comedor”; Respuesta2=“apagar comedor”.
+Comando3=“enciende la luz de la cocina”; Respuesta3=“encender cocina”.
+Comando4="apaga la luz de la cocina"; Respuesta4="apagar cocina".
+Comando5="enciende la electrovalvula"; Respuesta5="encender valvula".
+Comando6="apagar la electrovalvula"; Respuesta6="apagar valvula".
+Comando7="la temperatura es"; Respuesta7="24 grados centigrados".
+Comando = "La temperatura es"; Respuesta = "30.50 grados centigrados el 2024-06-30 ". 
+Comando = "La temperatura es"; Respuesta = "30.50 grados centigrados el 2024-06-30 ". 
+Comando = "La temperatura es"; Respuesta = "29.40 grados centigrados el 2024-06-30 ". 
+Comando = "La temperatura es"; Respuesta = "29.30 grados centigrados el 2024-06-30 ". 
+Comando = "La temperatura es"; Respuesta = "29.30 grados centigrados el 2024-06-30 ". 
+Comando = "La temperatura es"; Respuesta = "30.20 grados centigrados el 2024-06-30 ". 
+Comando = "La temperatura es"; Respuesta = "30.10 grados centigrados el 2024-06-30 ". 
+Comando = "La temperatura es"; Respuesta = "30.20 grados centigrados el 2024-06-30 ". 
+Comando = "La temperatura es"; Respuesta = "30.50 grados centigrados el 2024-06-30 ". 
+'''
